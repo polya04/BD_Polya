@@ -1,0 +1,8 @@
+DAWG-Python==0.7.2
+docopt==0.6.2
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
+pymorphy2-dicts-uk==2.4.1.1.1460299261
+setuptools==68.2.2
+six==1.16.0
+tokenize-uk==0.2.0
